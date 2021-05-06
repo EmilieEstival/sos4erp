@@ -702,16 +702,13 @@ div#preloader {
 .services-details {
   padding-top: 40px;
   transition: all 0.5s ease 0s;
+  width: 200px;
+  height: 200px;
+  background: rgb(255, 254, 243);
 }
 
 .services-details:hover h4, .services-details:hover .services-icon {
   color: #3EC1D5;
-}
-
-.services-details {
-  width: 200px;
-  height: 200px;
-  background: #333;
 }
 
 .row.second-row {
