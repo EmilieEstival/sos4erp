@@ -708,6 +708,12 @@ div#preloader {
   color: #3EC1D5;
 }
 
+.services-details {
+  width: 200px;
+  height: 200px;
+  background: #333;
+}
+
 .row.second-row {
   margin-top: 40px;
 }
