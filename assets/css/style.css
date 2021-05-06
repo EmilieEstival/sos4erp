@@ -716,11 +716,11 @@ div#preloader {
 
 .services-details {
   padding-top: 40px;
-  margin: 40px;
+  margin: 20px;
   transition: all 0.5s ease 0s;
-  width: 200px;
-  height: 500px;
-  background: rgba(190, 190, 190, 0.685);
+  width: 300px;
+  height: 300px;
+  background: rgba(218, 218, 218, 0.685);
 }
 
 .services-details:hover h4, .services-details:hover .services-icon {
