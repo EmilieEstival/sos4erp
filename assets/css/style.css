@@ -649,6 +649,7 @@ div#preloader {
   margin: 10px;
   color: #fff;
   background: #3ec1d5;
+  position: bottom right;
 }
 
 #hero .btn-get-started:hover {
