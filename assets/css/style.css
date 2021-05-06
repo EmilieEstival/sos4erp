@@ -716,9 +716,10 @@ div#preloader {
 
 .services-details {
   padding-top: 40px;
+  margin: 40px;
   transition: all 0.5s ease 0s;
   width: 200px;
-  height: 200px;
+  height: 500px;
   background: rgba(190, 190, 190, 0.685);
 }
 
