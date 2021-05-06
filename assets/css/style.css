@@ -606,7 +606,7 @@ div#preloader {
 #hero .carousel-fade .carousel-inner .active,
 #hero .carousel-fade .carousel-inner .carousel-item-next.carousel-item-start,
 #hero .carousel-fade .carousel-inner .carousel-item-prev.carousel-item-end {
-  opacity: 1;
+  opacity: 0;
   transition: 0.5s;
 }
 
@@ -648,12 +648,12 @@ div#preloader {
   transition: 0.5s;
   margin: 10px;
   color: #fff;
-  background: #3ec1d5;
+  background: #3f3cdf;
 }
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #3ec1d5;
+  color: #3f3cdf;
 }
 
 /*--------------------------------------------------------------
@@ -674,7 +674,7 @@ div#preloader {
 }
 
 .single-well ul li i {
-  color: #3EC1D5;
+  color: #3f3cdf;
   margin-right: 5px;
   font-size: 18px;
 }
@@ -704,7 +704,7 @@ div#preloader {
 }
 
 .services-details:hover h4, .services-details:hover .services-icon {
-  color: #3EC1D5;
+  color:  #3f3cdf;
 }
 
 .row.second-row {
