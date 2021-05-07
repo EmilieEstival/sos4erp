@@ -713,9 +713,8 @@ div#preloader {
 .services-top-bar {
   background: rgb(12, 24, 131);
   top: 100px;
-  width: 100%;
-  height: 400px;
-  z-index: auto;
+  width: 200%;
+  height: 320px;
   position: static;
   z-index: 0;
 }
