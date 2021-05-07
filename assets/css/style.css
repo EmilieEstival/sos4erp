@@ -713,6 +713,7 @@ div#preloader {
 .services-top-bar {
   background: rgb(12, 24, 131);
   overflow: hidden;
+  top: -100px;
   width: 100%;
   height: 200px;
   position: relative;
@@ -723,7 +724,7 @@ div#preloader {
 }
 
 .services-details {
-  padding-top: 40px;
+  padding: 40px 40px 40px 40px;
   margin: 20px;
   transition: all 0.5s ease 0s;
   width: 300px;
