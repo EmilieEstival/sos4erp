@@ -721,12 +721,13 @@ div#preloader {
 
 .section-headline.services-head > h2 {
   color: rgba(218, 218, 218, 0.685);
+  padding: 40px 40px;
   margin-bottom: 25px;
   z-index: 9999;
 }
 
 .services-details {
-  padding: 40px 40px 40px 40px;
+  padding: 40px 40px;
   margin: 20px;
   transition: all 0.5s ease 0s;
   width: 300px;
