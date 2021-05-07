@@ -663,8 +663,8 @@ div#preloader {
   color: #fff;
   background: #3ec1d5;
   position: relative;
-  top:200px;
-  right:0px;
+  top:220px;
+  right:-150px;
 }
 
 #hero .btn-get-started:hover {
