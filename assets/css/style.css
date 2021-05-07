@@ -721,6 +721,7 @@ div#preloader {
 
 .section-headline.services-head > h2 {
   margin-bottom: 25px;
+  z-index: 1;
 }
 
 .services-details {
