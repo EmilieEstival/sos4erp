@@ -728,6 +728,7 @@ div#preloader {
 
 .services-head > p {
   color: rgb(255, 255, 255);
+  padding-top: 10px;
   padding-bottom: 40px;
   z-index: 9999;
 }
