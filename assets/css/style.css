@@ -742,6 +742,15 @@ div#preloader {
   position: static;
 }
 
+.services-details-shade {
+  margin: 30px 40px 30px 60px;
+  width: 300px;
+  height: 350px;
+  background: rgba(218, 218, 218, 0);
+  border:3px solid rgba(218, 218, 218, 0.685);
+  position: static;
+}
+
 .services-details:hover h4, .services-details:hover .services-icon {
   color: #3EC1D5;
 }
